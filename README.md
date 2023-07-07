@@ -1,5 +1,5 @@
 <div align="center">
-## <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Hola Mundo!👋
+<h1><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Hola Mundo!👋 </h1>
 <div align="center">
 
 ¡Hola! Soy David Quiñonez, un apasionado desarrollador de software con un enfoque en el desarrollo web. Me considero un desarrollador semi-junior en constante crecimiento y aprendizaje.
