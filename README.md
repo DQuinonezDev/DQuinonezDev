@@ -26,7 +26,7 @@ Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis 
 
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </p>
 
 
