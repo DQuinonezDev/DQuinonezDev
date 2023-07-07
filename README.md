@@ -1,5 +1,7 @@
 ### Hola Mundo! Me llamo David Quiñonez 👋
-<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
+
+Estas son algunas de las tecnologias con las que tengo experiencia:
+<img width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
 <!--
 **DQuinonezDev/DQuinonezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
