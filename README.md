@@ -21,6 +21,7 @@ Actualmente tengo conocimientos en estas tecnologias:
   * React
   * Node.js
   * Git Hub
+  * ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=solaresjuan98&show_icons=true&theme=dracula)
 <!--
 **DQuinonezDev/DQuinonezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
