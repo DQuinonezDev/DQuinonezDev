@@ -12,7 +12,8 @@ Además de mis habilidades técnicas, soy un comunicador efectivo y me adapto f�
 Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis habilidades en proyectos desafiantes. Siempre estoy abierto a nuevas oportunidades y dispuesto a enfrentar nuevos desafíos que me permitan expandir mi conocimiento y experiencia en el desarrollo de software
 
 <div align="center">
-<h2 >Conocimiento </h2>
+<h1>Conocimientos </h2>
+    
 Actualmente tengo conocimientos en estas tecnologias:
 </div>
     <p align="center">
