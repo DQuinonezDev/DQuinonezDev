@@ -16,7 +16,7 @@ Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis 
 
 <h1>Conocimientos </h2>
     
-<h5>Actualmente tengo conocimientos en estas tecnologias: </h5>
+<h4>Actualmente tengo conocimientos en estas tecnologias: </h4>
 </div>
     <p align="center">
   <a href="https://skillicons.dev">
@@ -26,6 +26,7 @@ Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis 
 
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </p>
 
 
