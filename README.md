@@ -3,7 +3,7 @@
 Estas son algunas de las tecnologias con las que tengo experiencia:
 <br>
 <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
-<img width="75" src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png](https://cdn-images-1.medium.com/max/1200/0*MNVJq_8e0SJoqZb5.jpg)](https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png)">
+<img width="75" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png">
 <!--
 **DQuinonezDev/DQuinonezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
