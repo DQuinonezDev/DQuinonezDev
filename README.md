@@ -1,8 +1,8 @@
 <div align="center">
-    
 ## <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Hola Mundo!👋
+<div align="center">
 
-¡Hola! Soy Davi Quiñonez, un apasionado desarrollador de software con un enfoque en el desarrollo web. Me considero un desarrollador semi-junior en constante crecimiento y aprendizaje.
+¡Hola! Soy David Quiñonez, un apasionado desarrollador de software con un enfoque en el desarrollo web. Me considero un desarrollador semi-junior en constante crecimiento y aprendizaje.
 
 Durante mi carrera, he trabajado en diversos proyectos que me han permitido adquirir habilidades sólidas en tecnologías como Java, Javascript, React, entre otros.  Estoy constantemente explorando nuevas herramientas y técnicas para ampliar mis conocimientos.
 
@@ -14,7 +14,6 @@ Además de mis habilidades técnicas, soy un comunicador efectivo y me adapto f�
 Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis habilidades en proyectos desafiantes. Siempre estoy abierto a nuevas oportunidades y dispuesto a enfrentar nuevos desafíos que me permitan expandir mi conocimiento y experiencia en el desarrollo de software
 </div>
 
-<div align="center">
 <h1>Conocimientos </h2>
     
 Actualmente tengo conocimientos en estas tecnologias:
