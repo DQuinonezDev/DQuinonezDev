@@ -15,12 +15,12 @@ Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis 
 Actualmente tengo conocimientos en estas tecnologias:
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java, javascript, html, css, react" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,react" />
   </a>
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="(https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark">
 </p>
 
 
