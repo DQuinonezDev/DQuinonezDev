@@ -25,7 +25,7 @@ Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis 
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark" width="300">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark" width="500">
     <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DQuinonezDev&layout=compact&theme=dark" width="300">
 </p>
 
