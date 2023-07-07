@@ -28,21 +28,6 @@ Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis 
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark" width="400">
     <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DQuinonezDev&layout=compact&theme=dark" width="300">
 </p>
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Contactame:
-<p align="center">
-  <a href="https://www.instagram.com/gchay_g/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/gerardo-chay-97967b197/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://discord.gg/KgF4WGf">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="mailto:gerardo15.chay97@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
-</p>
 
 
 <!--
