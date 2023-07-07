@@ -21,7 +21,10 @@ Actualmente tengo conocimientos en estas tecnologias:
   * React
   * Node.js
   * GitHub
-            ![Quinonez GitHub stats](https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark)
+
+    ![Quinonez GitHub stats](https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark)
+
+
 <!--
 **DQuinonezDev/DQuinonezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
