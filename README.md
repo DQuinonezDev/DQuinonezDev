@@ -1,4 +1,4 @@
-## Hola Mundo!👋
+## <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Hola Mundo!👋
 
 ¡Hola! Soy Davi Quiñonez, un apasionado desarrollador de software con un enfoque en el desarrollo web. Me considero un desarrollador semi-junior en constante crecimiento y aprendizaje.
 
