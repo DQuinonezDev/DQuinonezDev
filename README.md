@@ -11,7 +11,9 @@ Además de mis habilidades técnicas, soy un comunicador efectivo y me adapto f�
 
 Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis habilidades en proyectos desafiantes. Siempre estoy abierto a nuevas oportunidades y dispuesto a enfrentar nuevos desafíos que me permitan expandir mi conocimiento y experiencia en el desarrollo de software
 
-## Conocimientos
+![Quinonez GitHub stats](https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark)
+
+<h2 align="center">Conocimiento </h2>
 Actualmente tengo conocimientos en estas tecnologias:
 
   * Java
@@ -22,7 +24,15 @@ Actualmente tengo conocimientos en estas tecnologias:
   * Node.js
   * GitHub
 
-    ![Quinonez GitHub stats](https://github-readme-stats.vercel.app/api?username=DQuinonezDev&show_icons=true&theme=dark)
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+  </a>
+</p>
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true">
+</p>
 
 
 <!--
