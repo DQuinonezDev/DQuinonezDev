@@ -1,4 +1,4 @@
-## Hola Mundo! Me llamo David Quiñonez 👋
+## Hola Mundo!👋
 
 ¡Hola! Soy Davi Quiñonez, un apasionado desarrollador de software con un enfoque en el desarrollo web. Me considero un desarrollador semi-junior en constante crecimiento y aprendizaje.
 
@@ -10,6 +10,17 @@ Además de mis habilidades técnicas, soy un comunicador efectivo y me adapto f�
 
 
 Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis habilidades en proyectos desafiantes. Siempre estoy abierto a nuevas oportunidades y dispuesto a enfrentar nuevos desafíos que me permitan expandir mi conocimiento y experiencia en el desarrollo de software
+
+## Conocimientos
+Actualmente tengo conocimientos en estas tecnologias:
+
+  * Java
+  * Javascript
+  * HTML
+  * CSS
+  * React
+  * Node.js
+  * Git Hub
 <!--
 **DQuinonezDev/DQuinonezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
