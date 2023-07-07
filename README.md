@@ -10,13 +10,13 @@ Además de mis habilidades técnicas, soy un comunicador efectivo y me adapto f�
 
 
 Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis habilidades en proyectos desafiantes. Siempre estoy abierto a nuevas oportunidades y dispuesto a enfrentar nuevos desafíos que me permitan expandir mi conocimiento y experiencia en el desarrollo de software
-<img width="75" src="https://cdn-images-1.medium.com/max/1200/0*MNVJq_8e0SJoqZb5.jpg">
-<img width="75" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png">
 <!--
 **DQuinonezDev/DQuinonezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+<img width="75" src="https://cdn-images-1.medium.com/max/1200/0*MNVJq_8e0SJoqZb5.jpg">
+<img width="75" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
