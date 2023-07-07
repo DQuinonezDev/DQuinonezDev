@@ -16,7 +16,7 @@ Estoy entusiasmado por seguir creciendo como desarrollador y contribuir con mis 
 
 <h1>Conocimientos </h2>
     
-Actualmente tengo conocimientos en estas tecnologias:
+<h5>Actualmente tengo conocimientos en estas tecnologias: </h5>
 </div>
     <p align="center">
   <a href="https://skillicons.dev">
